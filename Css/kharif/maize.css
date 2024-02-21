@@ -6,7 +6,7 @@ body {
     background-attachment: fixed;
     background-position: center;
     background-size: cover;  
-    background-image: url('../../kharif/maize.jpg');
+    background-image: url('../../Images/kharif/maize.jpg');
 	display: flex; 
 	justify-content: left; 
 	align-items: left; 
